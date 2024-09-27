@@ -1,13 +1,13 @@
 //
-//  CalendarAlarm2024UITestsLaunchTests.swift
-//  CalendarAlarm2024UITests
+//  MeetingAlarmUITestsLaunchTests.swift
+//  MeetingAlarmUITests
 //
 //  Created by Daniel Goneau on 2024-09-27.
 //
 
 import XCTest
 
-final class CalendarAlarm2024UITestsLaunchTests: XCTestCase {
+final class MeetingAlarmUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

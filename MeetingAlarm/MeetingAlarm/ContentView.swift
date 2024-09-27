@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  CalendarAlarm2024
+//  MeetingAlarm
 //
 //  Created by Daniel Goneau on 2024-09-27.
 //

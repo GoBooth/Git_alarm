@@ -1,14 +1,14 @@
 //
-//  CalendarAlarm2024Tests.swift
-//  CalendarAlarm2024Tests
+//  MeetingAlarmTests.swift
+//  MeetingAlarmTests
 //
 //  Created by Daniel Goneau on 2024-09-27.
 //
 
 import Testing
-@testable import CalendarAlarm2024
+@testable import MeetingAlarm
 
-struct CalendarAlarm2024Tests {
+struct MeetingAlarmTests {
 
     @Test func example() async throws {
         // Write your test here and use APIs like `#expect(...)` to check expected conditions.

@@ -7,62 +7,62 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		13E8A1942CA6EC56009369E6 /* PBXContainerItemProxy */ = {
+		13E8A1E52CA6EE62009369E6 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 13E8A17B2CA6EC55009369E6 /* Project object */;
+			containerPortal = 13E8A1CC2CA6EE61009369E6 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 13E8A1822CA6EC55009369E6;
-			remoteInfo = CalendarAlarm2024;
+			remoteGlobalIDString = 13E8A1D32CA6EE61009369E6;
+			remoteInfo = MeetingAlarm;
 		};
-		13E8A19E2CA6EC57009369E6 /* PBXContainerItemProxy */ = {
+		13E8A1EF2CA6EE62009369E6 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 13E8A17B2CA6EC55009369E6 /* Project object */;
+			containerPortal = 13E8A1CC2CA6EE61009369E6 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 13E8A1822CA6EC55009369E6;
-			remoteInfo = CalendarAlarm2024;
+			remoteGlobalIDString = 13E8A1D32CA6EE61009369E6;
+			remoteInfo = MeetingAlarm;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		13E8A1832CA6EC55009369E6 /* CalendarAlarm2024.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CalendarAlarm2024.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13E8A1932CA6EC56009369E6 /* CalendarAlarm2024Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalendarAlarm2024Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		13E8A19D2CA6EC57009369E6 /* CalendarAlarm2024UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalendarAlarm2024UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		13E8A1D42CA6EE61009369E6 /* MeetingAlarm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MeetingAlarm.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13E8A1E42CA6EE62009369E6 /* MeetingAlarmTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MeetingAlarmTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		13E8A1EE2CA6EE62009369E6 /* MeetingAlarmUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MeetingAlarmUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		13E8A1852CA6EC55009369E6 /* CalendarAlarm2024 */ = {
+		13E8A1D62CA6EE61009369E6 /* MeetingAlarm */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = CalendarAlarm2024;
+			path = MeetingAlarm;
 			sourceTree = "<group>";
 		};
-		13E8A1962CA6EC56009369E6 /* CalendarAlarm2024Tests */ = {
+		13E8A1E72CA6EE62009369E6 /* MeetingAlarmTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = CalendarAlarm2024Tests;
+			path = MeetingAlarmTests;
 			sourceTree = "<group>";
 		};
-		13E8A1A02CA6EC57009369E6 /* CalendarAlarm2024UITests */ = {
+		13E8A1F12CA6EE62009369E6 /* MeetingAlarmUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = CalendarAlarm2024UITests;
+			path = MeetingAlarmUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		13E8A1802CA6EC55009369E6 /* Frameworks */ = {
+		13E8A1D12CA6EE61009369E6 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		13E8A1902CA6EC56009369E6 /* Frameworks */ = {
+		13E8A1E12CA6EE62009369E6 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		13E8A19A2CA6EC57009369E6 /* Frameworks */ = {
+		13E8A1EB2CA6EE62009369E6 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,22 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		13E8A17A2CA6EC55009369E6 = {
+		13E8A1CB2CA6EE61009369E6 = {
 			isa = PBXGroup;
 			children = (
-				13E8A1852CA6EC55009369E6 /* CalendarAlarm2024 */,
-				13E8A1962CA6EC56009369E6 /* CalendarAlarm2024Tests */,
-				13E8A1A02CA6EC57009369E6 /* CalendarAlarm2024UITests */,
-				13E8A1842CA6EC55009369E6 /* Products */,
+				13E8A1D62CA6EE61009369E6 /* MeetingAlarm */,
+				13E8A1E72CA6EE62009369E6 /* MeetingAlarmTests */,
+				13E8A1F12CA6EE62009369E6 /* MeetingAlarmUITests */,
+				13E8A1D52CA6EE61009369E6 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		13E8A1842CA6EC55009369E6 /* Products */ = {
+		13E8A1D52CA6EE61009369E6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13E8A1832CA6EC55009369E6 /* CalendarAlarm2024.app */,
-				13E8A1932CA6EC56009369E6 /* CalendarAlarm2024Tests.xctest */,
-				13E8A19D2CA6EC57009369E6 /* CalendarAlarm2024UITests.xctest */,
+				13E8A1D42CA6EE61009369E6 /* MeetingAlarm.app */,
+				13E8A1E42CA6EE62009369E6 /* MeetingAlarmTests.xctest */,
+				13E8A1EE2CA6EE62009369E6 /* MeetingAlarmUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,134 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		13E8A1822CA6EC55009369E6 /* CalendarAlarm2024 */ = {
+		13E8A1D32CA6EE61009369E6 /* MeetingAlarm */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13E8A1A72CA6EC57009369E6 /* Build configuration list for PBXNativeTarget "CalendarAlarm2024" */;
+			buildConfigurationList = 13E8A1F82CA6EE62009369E6 /* Build configuration list for PBXNativeTarget "MeetingAlarm" */;
 			buildPhases = (
-				13E8A17F2CA6EC55009369E6 /* Sources */,
-				13E8A1802CA6EC55009369E6 /* Frameworks */,
-				13E8A1812CA6EC55009369E6 /* Resources */,
+				13E8A1D02CA6EE61009369E6 /* Sources */,
+				13E8A1D12CA6EE61009369E6 /* Frameworks */,
+				13E8A1D22CA6EE61009369E6 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				13E8A1852CA6EC55009369E6 /* CalendarAlarm2024 */,
+				13E8A1D62CA6EE61009369E6 /* MeetingAlarm */,
 			);
-			name = CalendarAlarm2024;
+			name = MeetingAlarm;
 			packageProductDependencies = (
 			);
-			productName = CalendarAlarm2024;
-			productReference = 13E8A1832CA6EC55009369E6 /* CalendarAlarm2024.app */;
+			productName = MeetingAlarm;
+			productReference = 13E8A1D42CA6EE61009369E6 /* MeetingAlarm.app */;
 			productType = "com.apple.product-type.application";
 		};
-		13E8A1922CA6EC56009369E6 /* CalendarAlarm2024Tests */ = {
+		13E8A1E32CA6EE62009369E6 /* MeetingAlarmTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13E8A1AA2CA6EC57009369E6 /* Build configuration list for PBXNativeTarget "CalendarAlarm2024Tests" */;
+			buildConfigurationList = 13E8A1FB2CA6EE62009369E6 /* Build configuration list for PBXNativeTarget "MeetingAlarmTests" */;
 			buildPhases = (
-				13E8A18F2CA6EC56009369E6 /* Sources */,
-				13E8A1902CA6EC56009369E6 /* Frameworks */,
-				13E8A1912CA6EC56009369E6 /* Resources */,
+				13E8A1E02CA6EE62009369E6 /* Sources */,
+				13E8A1E12CA6EE62009369E6 /* Frameworks */,
+				13E8A1E22CA6EE62009369E6 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				13E8A1952CA6EC56009369E6 /* PBXTargetDependency */,
+				13E8A1E62CA6EE62009369E6 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				13E8A1962CA6EC56009369E6 /* CalendarAlarm2024Tests */,
+				13E8A1E72CA6EE62009369E6 /* MeetingAlarmTests */,
 			);
-			name = CalendarAlarm2024Tests;
+			name = MeetingAlarmTests;
 			packageProductDependencies = (
 			);
-			productName = CalendarAlarm2024Tests;
-			productReference = 13E8A1932CA6EC56009369E6 /* CalendarAlarm2024Tests.xctest */;
+			productName = MeetingAlarmTests;
+			productReference = 13E8A1E42CA6EE62009369E6 /* MeetingAlarmTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13E8A19C2CA6EC57009369E6 /* CalendarAlarm2024UITests */ = {
+		13E8A1ED2CA6EE62009369E6 /* MeetingAlarmUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13E8A1AD2CA6EC57009369E6 /* Build configuration list for PBXNativeTarget "CalendarAlarm2024UITests" */;
+			buildConfigurationList = 13E8A1FE2CA6EE62009369E6 /* Build configuration list for PBXNativeTarget "MeetingAlarmUITests" */;
 			buildPhases = (
-				13E8A1992CA6EC57009369E6 /* Sources */,
-				13E8A19A2CA6EC57009369E6 /* Frameworks */,
-				13E8A19B2CA6EC57009369E6 /* Resources */,
+				13E8A1EA2CA6EE62009369E6 /* Sources */,
+				13E8A1EB2CA6EE62009369E6 /* Frameworks */,
+				13E8A1EC2CA6EE62009369E6 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				13E8A19F2CA6EC57009369E6 /* PBXTargetDependency */,
+				13E8A1F02CA6EE62009369E6 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				13E8A1A02CA6EC57009369E6 /* CalendarAlarm2024UITests */,
+				13E8A1F12CA6EE62009369E6 /* MeetingAlarmUITests */,
 			);
-			name = CalendarAlarm2024UITests;
+			name = MeetingAlarmUITests;
 			packageProductDependencies = (
 			);
-			productName = CalendarAlarm2024UITests;
-			productReference = 13E8A19D2CA6EC57009369E6 /* CalendarAlarm2024UITests.xctest */;
+			productName = MeetingAlarmUITests;
+			productReference = 13E8A1EE2CA6EE62009369E6 /* MeetingAlarmUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		13E8A17B2CA6EC55009369E6 /* Project object */ = {
+		13E8A1CC2CA6EE61009369E6 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1600;
 				LastUpgradeCheck = 1600;
 				TargetAttributes = {
-					13E8A1822CA6EC55009369E6 = {
+					13E8A1D32CA6EE61009369E6 = {
 						CreatedOnToolsVersion = 16.0;
 					};
-					13E8A1922CA6EC56009369E6 = {
+					13E8A1E32CA6EE62009369E6 = {
 						CreatedOnToolsVersion = 16.0;
-						TestTargetID = 13E8A1822CA6EC55009369E6;
+						TestTargetID = 13E8A1D32CA6EE61009369E6;
 					};
-					13E8A19C2CA6EC57009369E6 = {
+					13E8A1ED2CA6EE62009369E6 = {
 						CreatedOnToolsVersion = 16.0;
-						TestTargetID = 13E8A1822CA6EC55009369E6;
+						TestTargetID = 13E8A1D32CA6EE61009369E6;
 					};
 				};
 			};
-			buildConfigurationList = 13E8A17E2CA6EC55009369E6 /* Build configuration list for PBXProject "CalendarAlarm2024" */;
+			buildConfigurationList = 13E8A1CF2CA6EE61009369E6 /* Build configuration list for PBXProject "MeetingAlarm" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 13E8A17A2CA6EC55009369E6;
+			mainGroup = 13E8A1CB2CA6EE61009369E6;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 13E8A1842CA6EC55009369E6 /* Products */;
+			productRefGroup = 13E8A1D52CA6EE61009369E6 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13E8A1822CA6EC55009369E6 /* CalendarAlarm2024 */,
-				13E8A1922CA6EC56009369E6 /* CalendarAlarm2024Tests */,
-				13E8A19C2CA6EC57009369E6 /* CalendarAlarm2024UITests */,
+				13E8A1D32CA6EE61009369E6 /* MeetingAlarm */,
+				13E8A1E32CA6EE62009369E6 /* MeetingAlarmTests */,
+				13E8A1ED2CA6EE62009369E6 /* MeetingAlarmUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		13E8A1812CA6EC55009369E6 /* Resources */ = {
+		13E8A1D22CA6EE61009369E6 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		13E8A1912CA6EC56009369E6 /* Resources */ = {
+		13E8A1E22CA6EE62009369E6 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		13E8A19B2CA6EC57009369E6 /* Resources */ = {
+		13E8A1EC2CA6EE62009369E6 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -232,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		13E8A17F2CA6EC55009369E6 /* Sources */ = {
+		13E8A1D02CA6EE61009369E6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		13E8A18F2CA6EC56009369E6 /* Sources */ = {
+		13E8A1E02CA6EE62009369E6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		13E8A1992CA6EC57009369E6 /* Sources */ = {
+		13E8A1EA2CA6EE62009369E6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -256,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		13E8A1952CA6EC56009369E6 /* PBXTargetDependency */ = {
+		13E8A1E62CA6EE62009369E6 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13E8A1822CA6EC55009369E6 /* CalendarAlarm2024 */;
-			targetProxy = 13E8A1942CA6EC56009369E6 /* PBXContainerItemProxy */;
+			target = 13E8A1D32CA6EE61009369E6 /* MeetingAlarm */;
+			targetProxy = 13E8A1E52CA6EE62009369E6 /* PBXContainerItemProxy */;
 		};
-		13E8A19F2CA6EC57009369E6 /* PBXTargetDependency */ = {
+		13E8A1F02CA6EE62009369E6 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13E8A1822CA6EC55009369E6 /* CalendarAlarm2024 */;
-			targetProxy = 13E8A19E2CA6EC57009369E6 /* PBXContainerItemProxy */;
+			target = 13E8A1D32CA6EE61009369E6 /* MeetingAlarm */;
+			targetProxy = 13E8A1EF2CA6EE62009369E6 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		13E8A1A52CA6EC57009369E6 /* Debug */ = {
+		13E8A1F62CA6EE62009369E6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -332,7 +332,7 @@
 			};
 			name = Debug;
 		};
-		13E8A1A62CA6EC57009369E6 /* Release */ = {
+		13E8A1F72CA6EE62009369E6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -388,14 +388,14 @@
 			};
 			name = Release;
 		};
-		13E8A1A82CA6EC57009369E6 /* Debug */ = {
+		13E8A1F92CA6EE62009369E6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"CalendarAlarm2024/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"MeetingAlarm/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -408,7 +408,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.gobooth.CalendarAlarm2024;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gobooth.MeetingAlarm;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -416,14 +416,14 @@
 			};
 			name = Debug;
 		};
-		13E8A1A92CA6EC57009369E6 /* Release */ = {
+		13E8A1FA2CA6EE62009369E6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"CalendarAlarm2024/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"MeetingAlarm/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -436,7 +436,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.gobooth.CalendarAlarm2024;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gobooth.MeetingAlarm;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -444,7 +444,7 @@
 			};
 			name = Release;
 		};
-		13E8A1AB2CA6EC57009369E6 /* Debug */ = {
+		13E8A1FC2CA6EE62009369E6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -453,16 +453,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.gobooth.CalendarAlarm2024Tests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gobooth.MeetingAlarmTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CalendarAlarm2024.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/CalendarAlarm2024";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MeetingAlarm.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/MeetingAlarm";
 			};
 			name = Debug;
 		};
-		13E8A1AC2CA6EC57009369E6 /* Release */ = {
+		13E8A1FD2CA6EE62009369E6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -471,87 +471,87 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.gobooth.CalendarAlarm2024Tests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gobooth.MeetingAlarmTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CalendarAlarm2024.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/CalendarAlarm2024";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MeetingAlarm.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/MeetingAlarm";
 			};
 			name = Release;
 		};
-		13E8A1AE2CA6EC57009369E6 /* Debug */ = {
+		13E8A1FF2CA6EE62009369E6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.gobooth.CalendarAlarm2024UITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gobooth.MeetingAlarmUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = CalendarAlarm2024;
+				TEST_TARGET_NAME = MeetingAlarm;
 			};
 			name = Debug;
 		};
-		13E8A1AF2CA6EC57009369E6 /* Release */ = {
+		13E8A2002CA6EE62009369E6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.gobooth.CalendarAlarm2024UITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gobooth.MeetingAlarmUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = CalendarAlarm2024;
+				TEST_TARGET_NAME = MeetingAlarm;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		13E8A17E2CA6EC55009369E6 /* Build configuration list for PBXProject "CalendarAlarm2024" */ = {
+		13E8A1CF2CA6EE61009369E6 /* Build configuration list for PBXProject "MeetingAlarm" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				13E8A1A52CA6EC57009369E6 /* Debug */,
-				13E8A1A62CA6EC57009369E6 /* Release */,
+				13E8A1F62CA6EE62009369E6 /* Debug */,
+				13E8A1F72CA6EE62009369E6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13E8A1A72CA6EC57009369E6 /* Build configuration list for PBXNativeTarget "CalendarAlarm2024" */ = {
+		13E8A1F82CA6EE62009369E6 /* Build configuration list for PBXNativeTarget "MeetingAlarm" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				13E8A1A82CA6EC57009369E6 /* Debug */,
-				13E8A1A92CA6EC57009369E6 /* Release */,
+				13E8A1F92CA6EE62009369E6 /* Debug */,
+				13E8A1FA2CA6EE62009369E6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13E8A1AA2CA6EC57009369E6 /* Build configuration list for PBXNativeTarget "CalendarAlarm2024Tests" */ = {
+		13E8A1FB2CA6EE62009369E6 /* Build configuration list for PBXNativeTarget "MeetingAlarmTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				13E8A1AB2CA6EC57009369E6 /* Debug */,
-				13E8A1AC2CA6EC57009369E6 /* Release */,
+				13E8A1FC2CA6EE62009369E6 /* Debug */,
+				13E8A1FD2CA6EE62009369E6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13E8A1AD2CA6EC57009369E6 /* Build configuration list for PBXNativeTarget "CalendarAlarm2024UITests" */ = {
+		13E8A1FE2CA6EE62009369E6 /* Build configuration list for PBXNativeTarget "MeetingAlarmUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				13E8A1AE2CA6EC57009369E6 /* Debug */,
-				13E8A1AF2CA6EC57009369E6 /* Release */,
+				13E8A1FF2CA6EE62009369E6 /* Debug */,
+				13E8A2002CA6EE62009369E6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 13E8A17B2CA6EC55009369E6 /* Project object */;
+	rootObject = 13E8A1CC2CA6EE61009369E6 /* Project object */;
 }
